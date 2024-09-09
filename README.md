@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I'm Juan, an IT student working at an insect farm in my final year at SCU Gold Coast. I'm developing a management system that tracks production, staff tasks, and inventory. I am passionate about software development and automation, so I look forward to applying my skills innovatively."
 
 
